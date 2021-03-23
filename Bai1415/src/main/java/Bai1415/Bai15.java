@@ -20,7 +20,7 @@ import java.util.Random;
  *
  * @author Admin
  */
-public class NewMain {
+public class Bai15 {
 
     /**
      * @param args the command line arguments
@@ -41,7 +41,7 @@ public class NewMain {
         try {
             File file = new File(Path);
             if (!file.exists()) {
-//cái package test là cho test case
+
                 boolean created = file.createNewFile();
             }
             out = new FileOutputStream("dsnhanvien.dat");

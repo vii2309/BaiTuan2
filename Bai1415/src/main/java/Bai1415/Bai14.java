@@ -15,7 +15,7 @@ import java.io.InputStreamReader;
  *
  * @author Admin
  */
-public class NewMain1 {
+public class Bai14 {
 
     /**
      * @param args the command line arguments
